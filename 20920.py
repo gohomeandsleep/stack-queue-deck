@@ -25,5 +25,3 @@ for i in range(n):
 print(word_list)
 print(sort_freq)
 print(sort_len)
-
-print("credit")
