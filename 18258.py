@@ -9,6 +9,7 @@ for i in range(N):
     state = input().rstrip()
 
     if state == "pop":
+
         if qu == []:
             print('-1')
         else:
